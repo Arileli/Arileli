@@ -23,4 +23,4 @@
  
  
  <img align="left"  width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arileli&layout=compact&theme=vision-friendly-dark" />
- <img align="left" width="300px" src="https://github-readme-stats.vercel.app/api?username=Arileli&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
+ <img align="left" width="350px" src="https://github-readme-stats.vercel.app/api?username=Arileli&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
