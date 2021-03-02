@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="left" width="200px"  src="https://raw.githubusercontent.com/Arileli/Arileli/main/giphy.webp">
+<img align="right" width="200px"  src="https://raw.githubusercontent.com/Arileli/Arileli/main/giphy.webp">
 
 
 # Hi there, I'm Bruna Ariele!
