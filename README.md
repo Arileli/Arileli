@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" width="200px" src="https://raw.githubusercontent.com/Arileli/Arileli/main/giphy.webp">
+<img align="right" "up" width="200px" src="https://raw.githubusercontent.com/Arileli/Arileli/main/giphy.webp">
 
 
 # Hi there, I'm Bruna Ariele!
@@ -23,4 +23,4 @@
  
  
  <img align="left"  width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arileli&layout=compact&theme=vision-friendly-dark" />
- <img align="right"  "left" width="300px" src="https://github-readme-stats.vercel.app/api?username=Arileli&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
+ <img align="left" width="300px" src="https://github-readme-stats.vercel.app/api?username=Arileli&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
