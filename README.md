@@ -1,8 +1,6 @@
-### Hi there 👋
-
 <img align="right" width="190px"  src="https://github.com/Arileli/Arileli/blob/main/giphy.webp">
 
-
+### Hi there 👋
 #I'm Bruna Ariele!
 
 - 💻 Web Designer - Senai
