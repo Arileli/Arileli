@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" width="190px"  src="https://github.com/Arileli/Arileli/blob/main/20170721margaret_hamilton.jpg">
+<img align="right" width="190px"  src="https://github.com/Arileli/Arileli/blob/main/giphy.webp">
 
 
 #I'm Bruna Ariele!
