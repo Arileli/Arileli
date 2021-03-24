@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<img align="right" width="150px"  src="https://raw.githubusercontent.com/Arileli/Arileli/main/giphy.web" />
+<img align="right" width="190px"  src="https://github.com/Arileli/Arileli/blob/main/20170721margaret_hamilton.jpg">
 
 
 #I'm Bruna Ariele!
+
 - 💻 Web Designer - Senai
 - 🚀 Bootcamp Generation Brasil - Desenvolvedor(a) Web Full Stack 
 - <a href="https://www.linkedin.com/in/bruna-soares-317b54167/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
